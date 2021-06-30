@@ -1,0 +1,43 @@
+body {
+  text-align:center;
+}
+#heading {
+  background-color: blueviolet;
+  margin-bottom:0px;
+}
+#im {
+  margin-bottom:60px;
+  width:100px;
+  border-radius:1px;
+}
+.head{
+  margin-bottom:60px;
+}
+.bio {
+  background-color:royalblue;
+}
+.line {
+  width:200px;
+}
+.menu {
+   list-style: none;
+   font-family: cursive;
+    float: right;
+    margin-top: 10px;
+    margin-right: 30px;
+    cursor:pointer;
+    color:darkturquoise;
+    position: fixed;
+}
+#myfavmusic {
+    background-color: darkgreen;
+}
+#singer {
+    background-color: yellow;
+}
+#myinspiration {
+    background-color: chocolate;
+}
+#contacts {
+    background-color: crimson;
+}
